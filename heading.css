@@ -1,0 +1,23 @@
+.subheading{
+	text-align : center;
+	}
+
+.subheading2{
+	background-color : #800080;
+	color : white;
+	}
+p.content{
+	margin-top :-10px;
+	}
+div.container{
+	margin : 30px;
+	}
+div.center{
+	text-align : center;
+	}
+header> div >h1{
+	color : #800080;
+}
+footer{
+	color : #800080;
+	}
